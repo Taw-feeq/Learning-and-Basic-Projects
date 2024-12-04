@@ -1,1 +1,1 @@
-Successfully pushed the file to the cloud repo from local repo
+Successfully pushed the file to the cloud repo from local repo.
